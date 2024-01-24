@@ -5,7 +5,7 @@ print("--- Good luck", name, "----")
 
 teams_names = ["FCSB", "CFR Cluj", "Rapid Bucuresti", "CS Universitatea Craiova", "Sepsi OSK",
                "Farul Constanta", "Universitatea Cluj", "Petrolul Ploiesti", "FC Hermannstadt", "Otelul Galati",
-               "FC U Craiova 1948", "FC Voluntari", "UTA Arad", "CSM Politehnica Iasi", "Dinamo Bucuresti FC Botosani"]
+               "FC U Craiova 1948", "FC Voluntari", "UTA Arad", "CSM Politehnica Iasi", "Dinamo Bucuresti" "FC Botosani"]
 
 
 team = random.choice(teams_names).upper()
